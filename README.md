@@ -1,5 +1,8 @@
 # Fizzbuzz
 
+We have written Fizzbuzz using Test Driven Development (TDD). You can run the tests from the command line, following the setup and installation instructions below.
+
+The classic Fizzbuzz does the following:
 * For each multiple of 3, it prints "Fizz" instead of the number.
 * For each multiple of 5, it prints "Buzz" instead of the number.
 * For numbers which are multiples of both 3 and 5, it prints "FizzBuzz" instead of the number.
